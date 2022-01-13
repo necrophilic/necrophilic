@@ -7,7 +7,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=necrophilic&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&count_private=true&show_icons=true" alt="necrophilic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necrophilic&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&layout=compact" alt="necrophilic" /></p>
-
+<br>
 <h3 align="left">Social media platforms:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCdE8eEu7qGt1Ze-DZirtEVw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cursedsheep" height="30" width="40" /></a>
