@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=necrophilic&label=Visitor count&color=ff00ff&style=flat" alt="necrophilic" />
-<h1 align="center">Hi, I'm Georgia Cri. </h1>
+<h1 align="center">? </h1>
 
 <!--<h3 align="center">A back-end programmer. </h3>-->
 
